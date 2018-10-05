@@ -1,0 +1,60 @@
+
+
+body {background-color: #F5F2EE;
+     }
+
+.content {padding-left: 128px;
+          padding-right: 128px;
+         }
+
+.header {text-align: center;
+        }
+
+.header_img {margin-top: 100px;
+             padding: 50px;
+            }
+
+.Clementina {font-size: 120px;
+             font-family: Playfair Display, serif;
+             font-weight: 500;
+             margin-top: -400px;
+            }
+
+.Title_text {margin-top: -20px;
+              font-size: 18px;
+              font-family: Roboto, sans-serif;
+              font-weight: lighter;
+            }
+.row_title {margin-top: 250px;
+            font-size: 40px;
+            font-family: Playfair Display, serif;
+            font-weight: 600;
+           }
+
+.card {
+  background-color: #FFFFFF;
+  width: 344px;
+  height: 584px;
+  display: flex;
+  display: inline-block;
+  
+      }
+
+
+.cards-row {float:left;
+margin-left: 120px;}
+
+.card_text {max-width: 248px;
+            font-family: Roboto, sans-serif;
+            font-size: 14px;
+            font-weight: lighter;
+            margin-left: 24px;
+          }
+
+.card_title {max-width: 248px;
+            font-family: Playfair Display, serif;
+            font-size: 28px;
+            font-weight: 600;
+            margin-left: 24px;
+            margin-top: 24px;
+           }
